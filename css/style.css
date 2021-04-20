@@ -21,6 +21,9 @@ nav{
     gap: 30px;
     
 }
+nav a{
+    color:#ccc;
+}
 nav>section{
     width: 960px;
     margin: auto;  
